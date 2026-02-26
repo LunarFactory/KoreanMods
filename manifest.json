@@ -1,9 +1,10 @@
 {
     "name": "KoreanMods",
     "version_number": "1.0.0",
-    "website_url": "",
-    "description": "Korean Translations for Mods",
+    "website_url": "https://github.com/LunarFactory/KoreanMods",
+    "description": "개선된 설명 및 일부 모드 번역",
     "dependencies": [
-
+		"ReturnOfModding-ReturnOfModding-1.1.7",
+		"ReturnsAPI-ReturnsAPI-0.1.20"
     ]
 }
