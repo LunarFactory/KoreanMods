@@ -2,7 +2,7 @@ return {
     item = {
         meatNugget = {description = "공격 적중 시 <y>8%</c> 확률로 <b>고깃덩어리 2개</c>를 떨어뜨립니다. 고깃덩어리는 <g>체력</c>을 <g>8<c_stack>(중첩당 +8) <g>회복</c>시킵니다." },
         lensMakersGlasses = { description = "공격 시 <y>8%<c_stack>(중첩당 +8%)</c> 확률로 <y>'치명타'</c>를 적중시켜 <y>두 배의 피해</c>를 입힙니다." },
-        barbedWire = { description = "<y>1m<c_stack>(중첩당 +0.2m)</c> 내의 적 <y>모두</c>에게 <y>0.5</c>초마다 <y>50% <c_stack>(중첩당 +10%) <y>의 피해</c>를 입힙니다." },
+        barbedWire = { description = "<y>1m<c_stack>(중첩당 +0.2m)</c> 내의 적 <y>모두</c>에게 <y>0.5</c>초마다 <y>50%<c_stack>(중첩당 +10%) <y>의 피해</c>를 입힙니다." },
         stickyBomb = { description = "공격 적중 시 <y>9%</c> 확률로 적에게 폭탄을 부착한 후, 격발하여 <y>총 200%<c_stack>(중첩당 +100%)<y>의 피해</c>를 입힙니다." },
         razorPenny = { description = "<y>치명타 확률이 4%<c_stack>(중첩당 +4%)</c> 증가합니다. <y>치명타 적중 시 $1<c_stack>(중첩당 +1$)<y>의 골드</c>를 얻습니다." },
         goldenGun = { description = "<y>현재 보유한 골드</c>를 기반으로 <y>최대 100%</c>의 <y>추가 피해</c>를 입힙니다. <y>골드 상한은 700<c_stack>(중첩당 -50%)</c>입니다. 시간이 지날수록 비례합니다." },
@@ -20,8 +20,8 @@ return {
     },
     skill = {
         commandoX2 = { description = "적을 베어 <y>150%의 피해</c>를 입히고 4초 동안 <r>부상</c>을 입히며 잠깐 <y>기절</c>시킵니다.\n<r>부상</c>당한 적은 <b>받는 모든 피해</c>가 <y>50%</c> 증가합니다." },
-        commandoV2 = { description = "산탄총을 꺼내 발사하여 주변의 적을 <y>기절</c>시키고 <y>6X100%의 피해</c>를 입힙니다." },
-        commandoV2Boosted = { description = "산탄총을 꺼내 발사하여 주변의 적을 <y>기절</c>시키고 <y>8X100%의 관통 피해</c>를 입힙니다." },
+        commandoV2 = { description = "산탄총을 꺼내 발사하여 주변의 적을 <y>기절</c>시키고 <y>6x100%의 피해</c>를 입힙니다." },
+        commandoV2Boosted = { description = "산탄총을 꺼내 발사하여 주변의 적을 <y>기절</c>시키고 <y>8x100%의 관통 피해</c>를 입힙니다." },
         huntressZ2 = { description = "길게 눌러 화살 사격을 충전한 후, 발사하여 <y>최대 750%의 피해</c>를 입힙니다.\n<b>시전 중에는 이동 속도가 느려집니다.</c>" },
         huntressX2 = { description = "<y>느리게 움직이는 대형 글레이브</c>를 던집니다. 글레이브는 돌아올 때까지 <y>100%의 피해</c>를 입힙니다." },
         huntressC2 = { description = "육중한 다트를 발사해 <y>50%의 피해</c>를 입히고 <y>착탄 지점으로 순간이동합니다.</c> 착탄 시 폭발해 <y>200%의 피해</c>를 입힙니다." },
