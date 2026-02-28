@@ -10,7 +10,7 @@ mods.on_all_mods_loaded(function()
 		-- 스타스톰 모드가 로드되었는지 확인하고 로그로 알림
 		if mods["RobomandosLab-StarstormReturns"] then
 			log.info(
-				"LunarFactory-KoreanMods: StarstormReturns 모드가 안정적으로 감지되었습니다. 전용 번역을 덮어씌웁니다!"
+				"LunarFactory-KoreanMods: StarstormReturns 모드가 감지되었습니다. 전용 번역을 덮어씌웁니다!"
 			)
 		end
 	end
