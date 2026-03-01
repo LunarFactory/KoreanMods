@@ -3,5 +3,5 @@
 추가로 일부 모드 번역을 포함합니다.
 
 ## 모드 번역
-### Starstorm Returns (WIP)
-- 현재 번역 중입니다.
+### Starstorm Returns 
+- 100% 번역됨, 공식 번역과 동일합니다.
