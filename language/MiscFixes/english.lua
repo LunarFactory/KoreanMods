@@ -9,11 +9,11 @@ return {
         playerScrap3 = { description = "Useless." },
         playerScrap4 = { description = "How does it happen?" },
         bookDrop = { 
-			pickup = "Information unlocked!"
+			pickup = "Information unlocked! "
             description = "Now Available.",
         },
         bookDropEnvironment = { 
-			pickup = "Information unlocked!"
+			pickup = "Information unlocked! "
             description = "Now Available.",
         },
 

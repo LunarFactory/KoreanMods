@@ -92,11 +92,11 @@ return {
         playerScrap3 = { description = "무쓸모." },
         playerScrap4 = { description = "어쩌다가?" },
         bookDrop = { 
-            pickup = "정보 잠금 해제!",
+            pickup = "정보 잠금 해제! ",
             description = "해당 적의 정보를 해금합니다.",
         },
         bookDropEnvironment = { 
-            pickup = "정보 잠금 해제!",
+            pickup = "정보 잠금 해제! ",
             description = "해당 지역의 현재 변형 정보를 해금합니다.",
         },
 
