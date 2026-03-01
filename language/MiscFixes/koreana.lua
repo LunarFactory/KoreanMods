@@ -80,7 +80,7 @@ return {
         legendarySpark = { description = "공격 적중 시 <y>8%</c> 확률로 <y>2<c_stack>(중첩당 +1)<y>개의 불꽃</c>을 생성해, 적을 <b>강타</c>하여 <y>총 피해량의 200%의 피해</c>를 입힙니다." },
         burningWitness = { description = "적을 처치하면 <y>6<c_stack>(중첩당 +2)<y>초</c> 동안 <y>불타는 흔적</c>을 남기고 <y>이동 속도</c>가 <y>30%</c> 증가합니다." },
         colossalKnurl = { description = "<g>최대 체력</c>이 <g>40<c/>만큼, <g>체력 재생</c>이 <g>1.2</c>만큼, <g>방어력</c>이 <g>6</c>만큼 증가합니다." },
-        ifritsHorn = { description = "공격 적중 시 <y>8%</c> 확률로 <y>불타는 파도</c>를 발사합니다. 불타는 파도는 적을 <b>소각</c>하여 <y>300%(중첩당 +300%)의 피해</c>를 입힙니다." },
+        ifritsHorn = { description = "공격 적중 시 <y>8%</c> 확률로 <y>불타는 파도</c>를 발사합니다. 불타는 파도는 적을 <b>소각</c>하여 <y>300%<c_stack>(중첩당 +300%)<y>의 피해</c>를 입힙니다." },
         minersPickaxe = { description = "공격 적중 시 <y>15%</c> 확률로 곡괭이를 소환해 <y>총 피해량의 220%의 피해</c>를 입히며, <y>적을 관통합니다</c>." },
 
         keycard = { description = "특정 스테이지의 <b>잠긴 문</c>을 열 수 있습니다." },
