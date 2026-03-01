@@ -87,10 +87,7 @@ return {
         whiteUndershirt = { description = "<g>방어력</c>이 <g>3<c_stack>(중첩당 +3)</c> 증가합니다." },
         smallEnigma = { description = "<b>장비의 재사용 대기시간이 5%<c_stack>(중첩당 +5%)</c> 감소합니다." },
         strangeBattery = { description = "<y>연쇄 번개</c>를 발사하여 적에게 <y>33%의 피해</c>를 입힙니다." },
-        playerScrap1 = { description = "진짜?" },
-        playerScrap2 = { description = "아무런 쓸모가 없다." },
-        playerScrap3 = { description = "무쓸모." },
-        playerScrap4 = { description = "어쩌다가?" },
+        playerScrap = { description = "아무런 쓸모가 없다." },
         bookDrop = { 
             pickup = "정보 잠금 해제! ",
             description = "해당 적의 정보를 해금합니다.",

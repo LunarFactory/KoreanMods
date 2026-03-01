@@ -4,10 +4,7 @@ return {
         whiteUndershirt = { description = "<g>Increase Armor</c> by <g>3</c> <c_stack>(+3 per stack)</c>." },
         smallEnigma = { description = "Reduce <b>Equipment Cooldown</c> by <b>5%</c> <c_stack>(+5% per stack)</c>." },
         strangeBattery = { description = "Fire <y>chain lightning</c> for <y>33% damage</c>." },
-        playerScrap1 = { description = "Really?" },
-        playerScrap2 = { description = "This thing has no use." },
-        playerScrap3 = { description = "Useless." },
-        playerScrap4 = { description = "How does it happen?" },
+        playerScrap = { description = "Useless." }
         bookDrop = { 
 			pickup = "Information unlocked! "
             description = "Now Available.",
