@@ -8,6 +8,14 @@ return {
         playerScrap2 = { description = "This thing has no use." },
         playerScrap3 = { description = "Useless." },
         playerScrap4 = { description = "How does it happen?" },
+        bookDrop = { 
+			pickup = "Information unlocked!"
+            description = "Now Available.",
+        },
+        bookDropEnvironment = { 
+			pickup = "Information unlocked!"
+            description = "Now Available.",
+        },
 
         jellySalad = { description = "Reduces <b>skill cooldowns</c> by <b>1 second</c> <c_stack>(+0.5s per stack)</c>. Cooldowns cannot go below <b>0.5s</c>." },
         marinatedLemurian = { description = "Increase <y>damage</c> by <y>20%</c> <c_stack>(+10% per stack)</c>." },

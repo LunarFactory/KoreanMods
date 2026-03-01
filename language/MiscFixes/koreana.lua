@@ -91,6 +91,14 @@ return {
         playerScrap2 = { description = "아무런 쓸모가 없다." },
         playerScrap3 = { description = "무쓸모." },
         playerScrap4 = { description = "어쩌다가?" },
+        bookDrop = { 
+            pickup = "정보 잠금 해제!",
+            description = "해당 적의 정보를 해금합니다.",
+        },
+        bookDropEnvironment = { 
+            pickup = "정보 잠금 해제!",
+            description = "해당 지역의 현재 변형 정보를 해금합니다.",
+        },
 
         jellySalad = { description = "<b>스킬 재사용 대기시간이 1초<c_stack>(중첩당 +0.5초)</c> 감소합니다. 재사용 대기시간은 <b>0.5초</c> 이하로 내려갈 수 없습니다." },
         marinatedLemurian = { description = "<y>피해량을 20%<c_stack>(중첩당 +10%)</c> 증가시킵니다." },
