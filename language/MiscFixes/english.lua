@@ -4,13 +4,13 @@ return {
         whiteUndershirt = { description = "<g>Increase Armor</c> by <g>3</c> <c_stack>(+3 per stack)</c>." },
         smallEnigma = { description = "Reduce <b>Equipment Cooldown</c> by <b>5%</c> <c_stack>(+5% per stack)</c>." },
         strangeBattery = { description = "Fire <y>chain lightning</c> for <y>33% damage</c>." },
-        playerScrap = { description = "Useless." }
+        playerScrap = { description = "Useless." },
         bookDrop = { 
-			pickup = "Information unlocked! "
+			pickup = "Information unlocked! ",
             description = "Now Available.",
         },
         bookDropEnvironment = { 
-			pickup = "Information unlocked! "
+			pickup = "Information unlocked! ",
             description = "Now Available.",
         },
 
@@ -21,6 +21,6 @@ return {
         saturnianSteak = { description = "Increase <g>health regeneration</c> by <g>0.6 HP/s</c> <c_stack>(+0.6 per stack)</c>, and movement speed by <b>2km/h</c> <c_stack>(+2 per stack)</c>." },
         
         diosFriendUsed = { description = "Useless." },
-        timeKeepersSecretUsed = { description = "Useless." }
+        timeKeepersSecretUsed = { description = "Useless." },
     },
 }
